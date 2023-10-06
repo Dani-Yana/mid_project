@@ -1,1 +1,2 @@
--c requirements-dev-txt
+-c requirements-dev.in
+jupyter
